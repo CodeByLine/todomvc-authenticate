@@ -17,4 +17,6 @@
 /tmp
 
 # Ignore the secrets files
+/config/database.yml
 /config/secrets.yml
+/config/secret_token.rb
